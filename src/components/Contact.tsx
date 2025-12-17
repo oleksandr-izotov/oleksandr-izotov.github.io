@@ -245,7 +245,7 @@ export function Contact() {
             <div className="w-1 h-1 bg-purple-500 rounded-full"></div>
             <div className="w-1 h-1 bg-pink-500 rounded-full"></div>
           </div>
-          <span>© 2025 Oleksandr Izotov</span>
+          <span>© 2026 Oleksandr Izotov</span>
           <div className="flex gap-1">
             <div className="w-1 h-1 bg-pink-500 rounded-full"></div>
             <div className="w-1 h-1 bg-purple-500 rounded-full"></div>
