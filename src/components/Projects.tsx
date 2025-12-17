@@ -27,7 +27,7 @@ export function Projects() {
         "Motion",
         "Responsive",
       ],
-      githubUrl: "https://github.com",
+      githubUrl: "https://github.com/oleksandr-izotov/oleksandr-izotov.github.io",
       gradient: "from-cyan-500 to-teal-500",
       shadowColor: "rgba(6, 182, 212, 0.6)",
     },
