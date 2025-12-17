@@ -2,6 +2,7 @@ import { Download, FolderGit2, MapPin } from "lucide-react";
 import { Button } from "./ui/button";
 import darkHeroImage from "../assets/hero-dark.png";
 import lightHeroImage from "../assets/hero-light.png";
+import cvFile from "../assets/Lebenslauf-DE-Oleksandr.pdf";
 import { motion } from "motion/react";
 import { useLanguage } from "../contexts/LanguageContext";
 
@@ -20,8 +21,12 @@ export function Hero({ isDark }: HeroProps) {
   };
 
   const handleDownloadCV = () => {
-    // Placeholder for CV download functionality
-    alert("CV download functionality - connect your CV file here");
+    const link = document.createElement('a');
+    link.href = cvFile;
+    link.download = 'Oleksandr_Izotov_CV.pdf';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   };
 
   return (
