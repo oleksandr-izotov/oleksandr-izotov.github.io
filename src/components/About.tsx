@@ -92,12 +92,6 @@ export function About() {
             <p className="text-muted-foreground text-lg leading-relaxed">
               {t.about.bio.paragraph2}
             </p>
-            <p className="text-muted-foreground text-lg leading-relaxed">
-              {t.about.bio.paragraph3}
-            </p>
-            <p className="text-muted-foreground text-lg leading-relaxed">
-              {t.about.bio.paragraph4}
-            </p>
           </motion.div>
 
           <motion.div

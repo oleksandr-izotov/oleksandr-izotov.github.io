@@ -29,17 +29,10 @@ const translations = {
     },
     about: {
       title: "About Me",
-      description: "I'm a Software Engineering student based in Stuttgart, Germany, with a passion for creating elegant solutions to complex problems. My journey in tech combines theoretical knowledge with practical experience in modern web development.",
-      passion: "What I Love",
-      passionText: "I'm particularly interested in full-stack development, UI/UX design, and building applications that make a difference. Always eager to learn new technologies and best practices.",
-      currentFocus: "Current Focus",
-      currentFocusText: "Currently deepening my knowledge in React ecosystem, TypeScript, and cloud technologies while working on personal projects that challenge my skills.",
-      subtitle: "A little summury about me...",
+      subtitle: "Backend Developer & Software Engineering Student",
       bio: {
-        paragraph1: "My name is Oleksandr Izotov. I am originally from Ukraine and have been living in Germany since 2022, after being forced to leave my home due to the war. I settled in Schwäbisch Hall, where my new chapter began.",
-        paragraph2: "Despite the challenges, I quickly integrated into the German education system and was admitted directly to a Gymnasium. Starting with no prior knowledge of German, I learned the language in a short time and successfully completed the German Abitur.",
-        paragraph3: "Today, I am studying Software Engineering at the University of Stuttgart. I am deeply interested in technology, programming, and building practical solutions that combine clean design with solid engineering principles.",
-        paragraph4: "My journey has taught me resilience, adaptability, and discipline. I value continuous learning, structured thinking, and taking responsibility for my own growth — both academically and personally. This website is a reflection of my path, my skills, and my ambition to create meaningful digital products.",
+        paragraph1: "Software Engineering student at Universität Stuttgart with hands-on experience in backend development, data automation, and system optimization. Passionate about building scalable server-side applications using Java and Python.",
+        paragraph2: "Strong foundation in Spring Boot, SQL databases, and RESTful API design. Proven ability to learn quickly — from zero German to Abitur in 3 years, now applying the same discipline to mastering software architecture and clean code principles.",
       },
       highlights: {
         backendFocus: "Specializing in server-side development, RESTful APIs, and database design",
@@ -148,17 +141,10 @@ const translations = {
     },
     about: {
       title: "Über mich",
-      description: "Ich bin ein Software Engineering Student aus Stuttgart, Deutschland, mit einer Leidenschaft für elegante Lösungen komplexer Probleme. Meine Reise in der Technologie verbindet theoretisches Wissen mit praktischer Erfahrung in moderner Webentwicklung.",
-      passion: "Was ich liebe",
-      passionText: "Ich interessiere mich besonders für Full-Stack-Entwicklung, UI/UX-Design und die Entwicklung von Anwendungen, die einen Unterschied machen. Immer bereit, neue Technologien und Best Practices zu lernen.",
-      currentFocus: "Aktueller Fokus",
-      currentFocusText: "Derzeit vertiefe ich mein Wissen im React-Ökosystem, TypeScript und Cloud-Technologien, während ich an persönlichen Projekten arbeite, die meine Fähigkeiten herausfordern.",
-      subtitle: "Ein kurzer Überblick über mich...",
+      subtitle: "Backend-Entwickler & Software Engineering Student",
       bio: {
-        paragraph1: "Mein Name ist Oleksandr Izotov. Ich komme ursprünglich aus der Ukraine und lebe seit 2022 in Deutschland, nachdem ich aus meinem Heimatland ausgewiesen wurde, aufgrund des Krieges. Ich habe mich in Schwäbisch Hall niedergelassen, wo mein neues Kapitel begann.",
-        paragraph2: "Trotz der Herausforderungen integrierte ich mich schnell in das deutsche Bildungssystem und wurde direkt in ein Gymnasium aufgenommen. Ohne vorheriges Wissen der deutschen Sprache lernte ich die Sprache in kurzer Zeit und schloss erfolgreich das deutsche Abitur ab.",
-        paragraph3: "Heute studiere ich Software Engineering an der Universität Stuttgart. Ich interessiere mich tief für Technologie, Programmierung und die Entwicklung praktischer Lösungen, die saubere Designprinzipien mit soliden Ingenieurwissenschaften kombinieren.",
-        paragraph4: "Meine Reise hat mich Resilienz, Anpassungsfähigkeit und Disziplin beigebracht. Ich schätze kontinuierliches Lernen, strukturiertes Denken und die Übernahme der Verantwortung für meinen eigenen Wachstum – sowohl akademisch als auch persönlich. Diese Website ist ein Spiegelbild meines Weges, meiner Fähigkeiten und meiner Ambition, bedeutende digitale Produkte zu schaffen.",
+        paragraph1: "Software Engineering Student an der Universität Stuttgart mit praktischer Erfahrung in Backend-Entwicklung, Datenautomatisierung und Systemoptimierung. Leidenschaftlich daran interessiert, skalierbare serverseitige Anwendungen mit Java und Python zu entwickeln.",
+        paragraph2: "Solide Grundlage in Spring Boot, SQL-Datenbanken und RESTful API-Design. Bewiesene Fähigkeit, schnell zu lernen — von null Deutsch zum Abitur in 3 Jahren, wende jetzt die gleiche Disziplin an, um Software-Architektur und Clean Code-Prinzipien zu meistern.",
       },
       highlights: {
         backendFocus: "Spezialisiert auf serverseitige Entwicklung, RESTful APIs und Datenbankdesign",
@@ -267,17 +253,10 @@ const translations = {
     },
     about: {
       title: "Обо мне",
-      description: "Я студент Software Engineering из Штутгарта, Германия, увлеченный созданием элегантных решений сложных проблем. Мой путь в технологиях сочетает теоретические знания с практическим опытом в современной веб-разработке.",
-      passion: "Что я люблю",
-      passionText: "Меня особенно интересует full-stack разработка, UI/UX дизайн и создание приложений, которые имеют значение. Всегда готов изучать новые технологии и лучшие практики.",
-      currentFocus: "Текущий фокус",
-      currentFocusText: "В настоящее время углубляю знания в экосистеме React, TypeScript и облачных технологиях, работая над личными проектами, которые бросают вызов моим навыкам.",
-      subtitle: "Короткое резюме о мне...",
+      subtitle: "Backend-разработчик и студент Software Engineering",
       bio: {
-        paragraph1: "Меня зовут Олександр Изотов. Я родом из Украины и живу в Германии с 2022 года, после того как был вынужден покинуть свой дом из-за войны. Я поселился в Швейбахалле, где начал новый главный этап своей жизни.",
-        paragraph2: "Несмотря на трудности, я быстро интегрировался в немецкую образовательную систему и был принят напрямую в гимназию. Начав с нулевого знания немецкого языка, я быстро его освоил и успешно завершил немецкий Абитюр.",
-        paragraph3: "Сегодня я студент Software Engineering в Штутгартском университете. Я глубоко заинтересован в технологии, программировании и создании практических решений, которые сочетают чистый дизайн с твердыми принципами инженерии.",
-        paragraph4: "Мой путь научил меня устойчивости, адаптивности и дисциплине. Я ценю непрерывное обучение, структурированное мышление и беру на себя ответственность за свой собственный рост — как академически, так и личностно. Этот сайт отражает мой путь, мои навыки и мою амбицию создавать значимые цифровые продукты.",
+        paragraph1: "Студент Software Engineering в Университете Штутгарта с практическим опытом в backend-разработке, автоматизации данных и оптимизации систем. Увлечен созданием масштабируемых серверных приложений на Java и Python.",
+        paragraph2: "Крепкая основа в Spring Boot, SQL базах данных и проектировании RESTful API. Доказанная способность быстро учиться — от нуля в немецком до Abitur за 3 года, теперь применяю ту же дисциплину для освоения архитектуры ПО и принципов чистого кода.",
       },
       highlights: {
         backendFocus: "Специализация на серверной разработке, RESTful API и проектировании баз данных",

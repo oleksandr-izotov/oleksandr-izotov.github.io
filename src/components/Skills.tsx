@@ -10,7 +10,7 @@ interface SkillCategory {
 const skillCategories: SkillCategory[] = [
   {
     title: "Programming Languages",
-    skills: ["Java", "Python", "TypeScript"],
+    skills: ["Java", "Python", "TypeScript", "JavaScript", "SQL"],
     gradient: "from-blue-500 to-cyan-500",
   },
   {
@@ -23,13 +23,12 @@ const skillCategories: SkillCategory[] = [
       "Motion (Framer Motion)",
       "HTML",
       "CSS",
-      "JavaScript",
     ],
     gradient: "from-purple-500 to-pink-500",
   },
   {
     title: "Databases",
-    skills: ["SQL"],
+    skills: ["MySQL", "PostgreSQL", "SQLite"],
     gradient: "from-pink-500 to-rose-500",
   },
   {
@@ -37,10 +36,11 @@ const skillCategories: SkillCategory[] = [
     skills: [
       "Git",
       "Docker",
-      "Vite",
       "bash",
-      "zsh",
       "Linux (Ubuntu, Debian)",
+      "Maven",
+      "REST API",
+      "Postman",
     ],
     gradient: "from-cyan-500 to-teal-500",
   },

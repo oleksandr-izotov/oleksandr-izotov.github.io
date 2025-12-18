@@ -1,7 +1,7 @@
 import { Download, FolderGit2, MapPin } from "lucide-react";
 import { Button } from "./ui/button";
-import darkHeroImage from "../assets/hero-dark.png";
-import lightHeroImage from "../assets/hero-light.png";
+import darkHeroImage from "../assets/hero-dark.webp";
+import lightHeroImage from "../assets/hero-light.webp";
 import cvFile from "../assets/Lebenslauf-DE-Oleksandr.pdf";
 import { motion } from "motion/react";
 import { useLanguage } from "../contexts/LanguageContext";
