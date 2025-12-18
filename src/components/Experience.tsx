@@ -142,8 +142,8 @@ export function Experience() {
                   className="flex flex-wrap gap-2 pt-4"
                 >
                   {[
-                    t.experience.recaro.skills.excelAutomation,
-                    t.experience.recaro.skills.dataProcessing,
+                    t.experience.recaro.skills.dataStructuring,
+                    t.experience.recaro.skills.workflowAutomation,
                     t.experience.recaro.skills.production,
                     t.experience.recaro.skills.qualityControl,
                   ].map((tech, index) => (

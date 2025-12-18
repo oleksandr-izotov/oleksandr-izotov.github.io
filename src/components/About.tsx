@@ -33,7 +33,7 @@ export function About() {
     },
     {
       icon: Database,
-      title: "Data Engineering",
+      title: "Data & Automation",
       gradient: "from-purple-500 to-pink-500",
       shadowColor: "rgba(168, 85, 247, 0.6)",
     },
@@ -47,7 +47,7 @@ export function About() {
 
   const highlightDescriptions = [
     t.about.highlights.backendFocus,
-    t.about.highlights.dataEngineering,
+    t.about.highlights.dataAutomation,
     t.about.highlights.problemSolver,
   ];
 
